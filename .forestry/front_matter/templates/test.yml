@@ -18,3 +18,5 @@ fields:
       format: markdown
   label: test2
   description: test2
+pages:
+- _posts/telegram-alert.md
