@@ -18,5 +18,3 @@ fields:
       format: markdown
   label: test2
   description: test2
-pages:
-- _posts/2022-10-21-telegram-alert.md
