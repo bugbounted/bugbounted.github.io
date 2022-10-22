@@ -14,7 +14,7 @@ layout : default
             <a style="box-shadow:none" href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>        
         </h3>
         <small style="color:#aaabd3;">
-                {{ post.date | jdate: "%A %d %b %Y" }}
+                {{ post.date }}
         </small>
         <p style="text-align:justify">{{ post.content | strip_html | truncatewords: 35 }}</p>
     </div>
