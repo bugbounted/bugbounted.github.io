@@ -9,7 +9,7 @@ categories: []
 ---
 ## یک ویرایشگر بصری دلپذیر و سازگار ایجاد کنید که از خستگی چشم جلوگیری می کند و شما را بهره ور نگه می دارد
 
-![چگونه کد ویژوال استودیو را شگفت انگیز جلوه دهیم](https://miro.medium.com/max/700/1*1OSztfdEBGYkFQqtXm4xQg.jpeg )
+![چگونه کد ویژوال استودیو را شگفت انگیز جلوه دهیم](https://irncdn.netlify.app/max/700/1*1OSztfdEBGYkFQqtXm4xQg.jpeg )
 
 Visual Studio Code یک ویرایشگر شگفت‌انگیز با بازار بزرگی از برنامه‌های افزودنی است که ویرایشگر را به موارد استفاده شما تغییر می‌دهد. این بازار در حال حاضر [8000 تم را ](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs)برای ایجاد یک ویرایشگر بصری دلپذیر ارائه می دهد که برای شما مناسب است.
 
@@ -28,7 +28,7 @@ Visual Studio Code یک ویرایشگر شگفت‌انگیز با بازار �
 1. مغز ما یک توالی چند شخصیتی مانند `===`به عنوان سه شخصیت مجزا این باعث می شود که چشمان ما هر سه کاراکتر را اسکن کنند و برای پردازش آنها انرژی صرف می شود.
 2. ترکیب‌های مشخصی از کاراکترها امکان تصحیح فضای خالی را فراهم می‌کنند، این یک بار دیگر باعث می‌شود که لیگاتورها برای اسکن و پردازش برای چشم آشکارتر شوند.
 
-![نمونه لیگاتورها از Jetbrains Mono - https://www.jetbrains.com/lp/mono/](https://miro.medium.com/proxy/1*kEeW5etkmZy4RK82wPejWw.jpeg)
+![نمونه لیگاتورها از Jetbrains Mono - https://www.jetbrains.com/lp/mono/](https://irncdn.netlify.app/proxy/1*kEeW5etkmZy4RK82wPejWw.jpeg)
 
 نمونه لیگاتورها از Jetbrains Mono — [https://www.jetbrains.com/lp/mono/](https://www.jetbrains.com/lp/mono/ "https://www.jetbrains.com/lp/mono/")
 
@@ -55,25 +55,25 @@ _ترجیح PersonaI: ترجیح شخصی برای JetBrains Mono داشته ب�
 
 **1.** [**تم آیکون مواد — 14.5 میلیون نصب**](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-![](https://miro.medium.com/proxy/1*kHlIWZTTqBTSXQ9qA7rrgw.jpeg)
+![](https://irncdn.netlify.app/proxy/1*kHlIWZTTqBTSXQ9qA7rrgw.jpeg)
 
 تم نماد مواد بیشترین بارگیری شده در VSCode Marketplace است. دارای مجموعه ای زیبا از نمادهای واضح است و سزاوار همه ستایش هایی است که می شود.
 
 **2.** [**Monokai Pro - 1.7 میلیون نصب**](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
 
-![](https://miro.medium.com/proxy/1*TLTmCavyYKruRvLWYNTcug.jpeg)
+![](https://irncdn.netlify.app/proxy/1*TLTmCavyYKruRvLWYNTcug.jpeg)
 
 Monokai Pro هم تم رنگی و هم نمادی است. با این حال، آنها را می توان به طور مستقل از یکدیگر تغییر داد. هم تم رنگی و هم نمادها زیبا به نظر می رسند و به شما امکان می دهند روی کد خود تمرکز کنید.
 
 **3.** [**vscode-icons — 12.1 میلیون نصب**](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
-![](https://miro.medium.com/proxy/1*GJpIJTB8Fq4aa7tZFnEZdA.jpeg)
+![](https://irncdn.netlify.app/proxy/1*GJpIJTB8Fq4aa7tZFnEZdA.jpeg)
 
 vscode-icons مجموعه ای شگفت انگیز از آیکون ها است که وضوح فوری را به نوار کناری شما می آورد. من از اولین نسخه VSCode تا حدود یک ماه پیش از این مجموعه آیکون استفاده کردم. اگر مطمئن نیستید که کدام نماد را انتخاب کنید، از این مجموعه استفاده کنید. این به خوبی با هر تم رنگی ترکیب می شود و هر نماد ساده و واضح است.
 
 **4.** [**بسته نماد City Lights - 96 هزار نصب**](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc)
 
-![](https://miro.medium.com/proxy/1*ZC8SZh09IFfFE1sZ__Qang.jpeg)
+![](https://irncdn.netlify.app/proxy/1*ZC8SZh09IFfFE1sZ__Qang.jpeg)
 
 بسته نماد چراغ‌های شهر دارای دو تم نماد برای انواع رنگی و تک رنگ است. من اخیراً این تم نماد را از طریق یکی از دوستانم کشف کردم و حدود یک ماه است که از آن استفاده می کنم.  
   
@@ -85,7 +85,7 @@ vscode-icons مجموعه ای شگفت انگیز از آیکون ها است �
 
 **1.** [**One Dark Pro — 6.2 میلیون نصب**](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 
-![](https://miro.medium.com/proxy/1*iFNwgcFQQmxtFSf3nV4-dg.jpeg)
+![](https://irncdn.netlify.app/proxy/1*iFNwgcFQQmxtFSf3nV4-dg.jpeg)
 
 One Dark Pro دقیقا مطابق با تم One Dark از Atom است. این موضوع محبوب ترین موضوع در بازار VSCode است. این موضوع برای بسیاری از توسعه دهندگانی که در گذشته از Atom استفاده می کردند، نوستالژی به ارمغان می آورد.
 
@@ -93,9 +93,9 @@ One Dark Pro دقیقا مطابق با تم One Dark از Atom است. این �
 
 **2.** [**تم Github — 5.4 میلیون نصب**](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 
-![](https://miro.medium.com/proxy/1*TD6uvKD9NhSCrEpteZ1OGQ.jpeg)
+![](https://irncdn.netlify.app/proxy/1*TD6uvKD9NhSCrEpteZ1OGQ.jpeg)
 
-![](https://miro.medium.com/proxy/1*wMeGtbEK1jXYBD58Tfa1vA.jpeg)
+![](https://irncdn.netlify.app/proxy/1*wMeGtbEK1jXYBD58Tfa1vA.jpeg)
 
 گیت هاب مجموعه ای از تم های خود را منتشر کرد. آنها دارای تم تیره و روشن هستند و هر دو حالت پیش فرض، کنتراست بالا و کور رنگ دارند.
 
@@ -103,7 +103,7 @@ One Dark Pro دقیقا مطابق با تم One Dark از Atom است. این �
 
 **3.** [**Dracula Official — 4.4 میلیون نصب**](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 
-![](https://miro.medium.com/proxy/1*USIe80DQFoxE-TmMKx-MzA.jpeg)
+![](https://irncdn.netlify.app/proxy/1*USIe80DQFoxE-TmMKx-MzA.jpeg)
 
 Dracula Official یک تم بسیار محبوب در بسیاری از ویرایشگرها، پوسته‌ها و ابزارهای مختلف است. ایده این است که یک تم رنگی ثابت در تمام جریان های کاری خود ایجاد کنید. این یک تم زیبا با رنگ تیره است که از شب الهام گرفته شده است (از این رو تم خون آشام) :)
 
@@ -111,7 +111,7 @@ Dracula Official یک تم بسیار محبوب در بسیاری از ویرا
 
 **4.** [**جغد شب - 1.6 میلیون نصب**](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
 
-![](https://miro.medium.com/proxy/1*sSLBispCqBSJ5Gx7WzwY1g.jpeg)
+![](https://irncdn.netlify.app/proxy/1*sSLBispCqBSJ5Gx7WzwY1g.jpeg)
 
 جغد شب یک تم زیبای تاریک است که مخصوصاً برای افرادی که تا آخر شب کدنویسی می کنند ساخته شده است. به گفته نویسنده: «انتخاب رنگ ها در نظر گرفته شده است که چه چیزی برای افراد مبتلا به کوررنگی و در شرایط کم نور قابل دسترسی است. تصمیم‌گیری‌ها همچنین بر اساس تضاد معنی‌دار برای درک مطلب و برای خیره‌کردن بهینه بود. _”_
 
@@ -119,19 +119,19 @@ I only discovered this theme a month ago and have been using it ever since.
 
 **5.** [**One Monokai — 1.5 million installs**](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai)
 
-![](https://miro.medium.com/proxy/1*NFlhIDRD0YVZSXuIaWkVjw.jpeg)
+![](https://irncdn.netlify.app/proxy/1*NFlhIDRD0YVZSXuIaWkVjw.jpeg)
 
 تم One Monokai تلاقی بین One Dark Theme و Monokai است.
 
 **6.** [**Shades of Purple - 1.3 میلیون نصب**](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
 
-![](https://miro.medium.com/proxy/1*pkF6pX2_GM0-6tzt0KZX5g.jpeg)
+![](https://irncdn.netlify.app/proxy/1*pkF6pX2_GM0-6tzt0KZX5g.jpeg)
 
 Shades of Purple یک تم زیبا با سایه های پررنگ بنفش است. کد اساساً با این موضوع از صفحه نمایش شما خارج می شود. من چندین نفر را می شناسم که به این موضوع قسم می خورند. من به شما توصیه می کنم آن را یک ضربه بزنید.
 
 **7.** [**SynthWave '84–1 میلیون نصب**](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
 
-![](https://miro.medium.com/proxy/1*ThDvXzUS57JRDomKOZcs_w.jpeg)
+![](https://irncdn.netlify.app/proxy/1*ThDvXzUS57JRDomKOZcs_w.jpeg)
 
 این تم خلاق تحت تأثیر موسیقی و آثار هنری روی جلد گروه‌های Synthwave مانند Timecop 1983 FM-84 و The Midnight است.
 
@@ -139,18 +139,18 @@ Shades of Purple یک تم زیبا با سایه های پررنگ بنفش ا�
 
 **8.** [**شب توکیو - 650 هزار نصب**](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 
-![](https://miro.medium.com/proxy/1*9el8Yu9uH6m7G8kHsXD06g.jpeg)
+![](https://irncdn.netlify.app/proxy/1*9el8Yu9uH6m7G8kHsXD06g.jpeg)
 
 یک تم کد ویژوال استودیو تمیز که چراغ‌های مرکز شهر توکیو را در شب جشن می‌گیرد. این تم بسیار تمیز است و عالی به نظر می رسد.
 
 **9.** [**کاناگاوا - 100 هزار نصب**](https://marketplace.visualstudio.com/items?itemName=qufiwefefwoyn.kanagawa)
 
-![](https://miro.medium.com/proxy/1*HX7D1EFaeAzOj9FK3uDjPQ.jpeg)
+![](https://irncdn.netlify.app/proxy/1*HX7D1EFaeAzOj9FK3uDjPQ.jpeg)
 
 این یک پورت VSCode از طرح رنگی KANAGAWA.nvim است. این یک تم تیره است که از رنگ های نقاشی معروف کاتسوشیکا هوکوسای الهام گرفته شده است.
 
 **10.** [**Bracket Lights Pro - 65 هزار نصب**](https://marketplace.visualstudio.com/items?itemName=fehey.brackets-light-pro)
 
-![](https://miro.medium.com/proxy/1*gODNIDNpVlAYnkYU5JtKDg.jpeg)
+![](https://irncdn.netlify.app/proxy/1*gODNIDNpVlAYnkYU5JtKDg.jpeg)
 
 Visual Studio Code گزینه های سفارشی سازی فراوانی دارد تا از نظر زیبایی شناختی برای هرکسی دلپذیرتر شود. در نظرات به من اطلاع دهید که کدام تنظیم را بیشتر دوست داشتید یا در حال حاضر کدام را اجرا می کنید!
