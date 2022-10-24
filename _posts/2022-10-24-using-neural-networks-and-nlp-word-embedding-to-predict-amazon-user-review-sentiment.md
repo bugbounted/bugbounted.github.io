@@ -12,7 +12,7 @@ categories:
 ---
 ## تجزیه و تحلیل اکتشافی سری زمانی نمایه پانداها
 
-![](https://irncdn.netlify.app/max/700/0*UXtE3lYd-CDw5RHu =700x467)
+![](https://irncdn.netlify.app/max/700/0*UXtE3lYd-CDw5RHu)
 
 عکس توسط [Aron Visuals ](https://unsplash.com/@aronvisuals?utm_source=medium&utm_medium=referral)در [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
 
@@ -38,7 +38,7 @@ categories:
 
 کد برای تولید نقشه حرارتی زمان با پانداها
 
-![](https://irncdn.netlify.app/max/700/0*hIUQjQabxDFktWVa =700x99)
+![](https://irncdn.netlify.app/max/700/0*hIUQjQabxDFktWVa)
 
 نقشه حرارتی مجموعه داده کیفیت هوای ایالات متحده (تصویر توسط نویسنده)
 
