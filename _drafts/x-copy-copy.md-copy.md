@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "0"
+title: ۰
 tags: []
 categories: []
 
